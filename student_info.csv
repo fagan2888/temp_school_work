@@ -1,0 +1,814 @@
+id_student,gender,highest_education,disability,final_result
+41060,M,Some Higher Education,N,Fail
+45664,M,Some Higher Education,N,Pass
+52014,F,High School,N,Fail
+53488,F,Some Higher Education,N,Pass
+60135,F,High School + Advanced Placement,N,Pass
+66579,M,High School,N,Fail
+67602,M,High School,N,Pass
+67785,F,High School,Y,Pass
+69491,F,High School,N,Pass
+76536,F,High School,N,Fail
+77763,M,Some Higher Education,N,Pass
+81351,M,Some Higher Education,Y,Fail
+86047,F,Some Higher Education,N,Pass
+87107,F,Some Higher Education,N,Pass
+89051,M,High School + Advanced Placement,Y,Pass
+92775,F,High School,Y,Fail
+94923,F,High School,N,Fail
+94964,F,High School,N,Fail
+96592,F,Some Higher Education,N,Pass
+103904,M,Some Higher Education,N,Pass
+110200,F,High School,N,Fail
+111113,M,High School,N,Fail
+112245,M,Some Higher Education,N,Pass
+121000,F,High School,Y,Fail
+121390,M,High School,N,Fail
+128678,F,High School + Advanced Placement,N,Fail
+130003,F,High School,N,Fail
+131145,M,High School + Advanced Placement,N,Pass
+134025,M,High School + Advanced Placement,N,Pass
+134188,M,High School + Advanced Placement,N,Pass
+134336,M,High School + Advanced Placement,N,Fail
+137603,M,Some Graduate,N,Pass
+142819,M,High School + Advanced Placement,N,Pass
+144923,M,High School,N,Fail
+146651,M,High School + Advanced Placement,N,Fail
+150578,F,High School,N,Fail
+157298,M,High School,N,Pass
+159925,F,High School + Advanced Placement,N,Pass
+160005,F,Some Higher Education,N,Pass
+163067,F,High School,N,Pass
+165421,M,Some Higher Education,N,Fail
+165733,M,High School + Advanced Placement,Y,Fail
+166342,M,High School + Advanced Placement,N,Pass
+166713,M,High School,N,Pass
+166988,F,Some Higher Education,N,Pass
+167717,M,High School + Advanced Placement,N,Fail
+170025,F,Some Higher Education,N,Pass
+171896,F,High School + Advanced Placement,N,Pass
+176092,F,High School + Advanced Placement,N,Pass
+177333,F,High School,N,Pass
+177981,F,Some Higher Education,N,Pass
+179892,F,Some Higher Education,N,Pass
+180667,M,High School + Advanced Placement,N,Pass
+180958,M,High School + Advanced Placement,Y,Pass
+183714,M,High School,Y,Pass
+187623,M,High School + Advanced Placement,N,Fail
+191195,F,High School,Y,Fail
+191896,F,High School,N,Fail
+191972,M,High School + Advanced Placement,N,Pass
+192196,M,High School,N,Pass
+196266,F,High School,N,Fail
+199782,M,High School,N,Fail
+200588,M,High School + Advanced Placement,N,Fail
+200957,M,High School + Advanced Placement,N,Fail
+202506,M,Some Higher Education,N,Fail
+204996,M,Some Higher Education,N,Pass
+228242,F,Some Higher Education,N,Fail
+229057,F,High School,N,Fail
+233389,F,High School,N,Fail
+233771,M,High School + Advanced Placement,N,Pass
+234740,M,High School,N,Pass
+234859,F,High School + Advanced Placement,N,Pass
+234978,M,High School + Advanced Placement,N,Fail
+235492,M,High School + Advanced Placement,N,Fail
+235584,F,Some Higher Education,N,Fail
+236498,F,Some Higher Education,N,Fail
+236620,M,High School + Advanced Placement,N,Pass
+240936,M,High School + Advanced Placement,N,Fail
+241771,F,Some Higher Education,N,Fail
+241922,F,Some Higher Education,N,Pass
+244875,M,High School + Advanced Placement,N,Pass
+246652,M,Some Higher Education,N,Pass
+248511,F,High School + Advanced Placement,N,Pass
+248994,F,High School,N,Pass
+249423,F,High School + Advanced Placement,N,Pass
+249996,F,High School,N,Fail
+251999,F,High School + Advanced Placement,N,Pass
+252149,F,High School + Advanced Placement,N,Pass
+252489,F,High School + Advanced Placement,Y,Pass
+255747,F,High School,N,Fail
+255902,F,Some Graduate,N,Fail
+260491,F,High School + Advanced Placement,N,Pass
+260639,M,High School + Advanced Placement,Y,Fail
+262396,F,High School,Y,Fail
+266450,M,High School + Advanced Placement,N,Pass
+266514,M,High School + Advanced Placement,N,Pass
+269676,M,High School,N,Pass
+270435,M,High School,N,Fail
+270468,F,High School,N,Fail
+270814,F,Some Higher Education,N,Pass
+273339,F,High School,N,Fail
+281118,F,High School,N,Pass
+282193,M,No Formal Quals,N,Pass
+283618,M,High School,N,Pass
+284326,F,High School,N,Fail
+284734,M,Some Higher Education,N,Fail
+285096,M,High School,N,Pass
+285475,M,Some Higher Education,N,Pass
+287432,F,High School + Advanced Placement,N,Pass
+289564,M,High School,Y,Fail
+290043,M,High School + Advanced Placement,N,Pass
+291133,M,High School + Advanced Placement,N,Pass
+292713,M,High School,Y,Fail
+298040,F,Some Higher Education,N,Pass
+298497,M,High School,N,Pass
+304734,M,Some Higher Education,N,Pass
+307158,F,High School,Y,Fail
+307290,F,Some Higher Education,N,Fail
+308589,M,High School + Advanced Placement,N,Fail
+308767,F,High School,N,Fail
+309580,F,Some Higher Education,N,Pass
+316289,F,Some Higher Education,N,Pass
+320014,F,Some Higher Education,N,Pass
+321525,M,High School + Advanced Placement,N,Pass
+321744,M,High School,N,Fail
+323146,F,High School + Advanced Placement,N,Fail
+324691,F,High School + Advanced Placement,N,Pass
+325565,M,High School,N,Fail
+327024,F,High School + Advanced Placement,N,Fail
+329689,F,High School,N,Fail
+329967,M,High School,N,Fail
+330067,M,High School + Advanced Placement,N,Pass
+331232,M,High School,N,Pass
+333856,F,High School + Advanced Placement,Y,Pass
+335020,F,High School + Advanced Placement,N,Pass
+336112,M,High School + Advanced Placement,N,Fail
+336684,M,High School + Advanced Placement,N,Pass
+336696,F,High School + Advanced Placement,N,Pass
+338076,M,Some Higher Education,N,Pass
+339481,M,High School + Advanced Placement,N,Fail
+340399,F,High School,N,Fail
+344367,M,High School,N,Fail
+344873,F,High School + Advanced Placement,N,Pass
+345257,M,High School + Advanced Placement,N,Fail
+345313,M,High School + Advanced Placement,N,Fail
+345568,F,High School + Advanced Placement,N,Fail
+351512,M,Some Higher Education,N,Fail
+351775,F,Some Higher Education,N,Pass
+354050,M,High School + Advanced Placement,N,Fail
+357576,M,High School,N,Fail
+358075,F,High School + Advanced Placement,N,Pass
+358522,M,High School + Advanced Placement,N,Pass
+360492,M,High School,N,Pass
+360938,F,High School,N,Fail
+361209,M,High School + Advanced Placement,N,Pass
+362037,F,Some Higher Education,N,Pass
+362374,F,Some Higher Education,N,Pass
+364021,F,High School,N,Fail
+364405,M,Some Higher Education,N,Pass
+365782,M,High School + Advanced Placement,N,Pass
+366024,M,High School,N,Fail
+366310,M,High School,N,Pass
+368749,F,Some Higher Education,N,Fail
+369908,M,Some Higher Education,N,Pass
+370949,M,High School,N,Pass
+371044,F,Some Higher Education,N,Pass
+371831,F,Some Higher Education,N,Pass
+373126,M,High School,N,Fail
+373369,M,High School + Advanced Placement,N,Pass
+375300,F,Some Higher Education,N,Pass
+378953,M,High School,N,Fail
+379861,F,Some Higher Education,N,Pass
+380341,F,Some Higher Education,N,Pass
+380919,M,High School + Advanced Placement,N,Pass
+381646,M,High School,N,Pass
+382339,M,High School,Y,Fail
+382497,M,Some Higher Education,N,Pass
+382641,F,High School + Advanced Placement,N,Pass
+383347,M,Some Graduate,N,Pass
+383701,F,High School,N,Fail
+384026,F,High School + Advanced Placement,N,Fail
+384246,F,High School + Advanced Placement,Y,Pass
+386833,M,Some Higher Education,N,Fail
+386880,M,Some Higher Education,N,Pass
+390210,F,High School,N,Fail
+390233,M,High School,Y,Pass
+391185,M,Some Higher Education,N,Pass
+394028,M,High School + Advanced Placement,N,Fail
+394979,M,Some Higher Education,N,Pass
+395757,M,Some Higher Education,N,Pass
+396633,F,High School + Advanced Placement,N,Fail
+397405,M,Some Higher Education,N,Pass
+398199,M,Some Higher Education,N,Fail
+399450,F,High School + Advanced Placement,N,Fail
+400451,M,High School + Advanced Placement,N,Fail
+400630,M,High School,N,Fail
+400759,F,High School + Advanced Placement,Y,Pass
+401486,M,High School + Advanced Placement,N,Pass
+403085,M,High School,N,Pass
+403902,F,High School,N,Fail
+405426,M,High School + Advanced Placement,N,Fail
+406056,F,High School + Advanced Placement,N,Pass
+406541,F,High School + Advanced Placement,N,Pass
+407595,F,High School + Advanced Placement,N,Fail
+407838,M,High School + Advanced Placement,N,Fail
+409091,F,High School + Advanced Placement,N,Pass
+409109,F,High School,N,Pass
+410886,F,High School + Advanced Placement,N,Pass
+412063,M,High School,N,Fail
+412731,F,Some Higher Education,N,Fail
+412772,M,Some Higher Education,N,Pass
+413934,F,High School + Advanced Placement,N,Fail
+414304,F,High School + Advanced Placement,N,Pass
+414587,F,Some Higher Education,N,Pass
+414758,M,High School,N,Pass
+414803,F,High School + Advanced Placement,N,Fail
+415695,F,High School + Advanced Placement,N,Fail
+416008,M,High School,N,Fail
+417242,F,High School,N,Pass
+417410,F,High School + Advanced Placement,N,Fail
+418122,M,High School + Advanced Placement,N,Pass
+418490,M,High School + Advanced Placement,N,Pass
+418956,M,High School,N,Pass
+419273,F,High School,N,Fail
+420388,F,High School,Y,Pass
+422164,M,High School + Advanced Placement,N,Fail
+422768,F,High School + Advanced Placement,N,Pass
+423061,M,Some Higher Education,N,Fail
+423757,M,High School + Advanced Placement,N,Fail
+424987,M,High School + Advanced Placement,N,Pass
+425136,M,High School,N,Fail
+426871,M,High School,N,Pass
+429833,F,High School,N,Fail
+433151,F,High School + Advanced Placement,Y,Pass
+433386,F,High School + Advanced Placement,N,Pass
+434977,F,High School + Advanced Placement,N,Pass
+435101,M,High School,N,Fail
+435423,M,High School + Advanced Placement,N,Pass
+437281,M,High School + Advanced Placement,N,Pass
+438244,M,Some Higher Education,N,Fail
+438662,M,High School,N,Fail
+439542,F,High School + Advanced Placement,N,Fail
+440375,M,High School + Advanced Placement,N,Fail
+440499,M,Some Higher Education,N,Pass
+441113,M,High School,N,Pass
+441132,M,Some Higher Education,N,Pass
+441201,M,High School,N,Pass
+441302,M,High School,N,Pass
+441389,F,High School + Advanced Placement,N,Pass
+442131,M,High School,N,Fail
+442545,F,Some Higher Education,N,Pass
+442865,F,High School,N,Fail
+442886,M,High School,N,Pass
+443215,F,High School,N,Pass
+443297,M,High School + Advanced Placement,N,Pass
+443842,M,High School,N,Fail
+444576,F,High School + Advanced Placement,N,Fail
+445573,F,High School + Advanced Placement,Y,Fail
+446814,M,High School + Advanced Placement,N,Pass
+447242,M,Some Higher Education,N,Pass
+464236,M,Some Higher Education,N,Pass
+465260,M,High School + Advanced Placement,N,Pass
+465727,M,High School,Y,Pass
+465764,F,High School,Y,Pass
+465843,M,High School + Advanced Placement,N,Pass
+466216,M,Some Higher Education,N,Pass
+466990,F,High School,N,Fail
+467294,M,High School + Advanced Placement,N,Pass
+467413,F,High School,N,Pass
+467822,F,High School + Advanced Placement,N,Pass
+468808,M,High School + Advanced Placement,N,Pass
+469016,M,High School + Advanced Placement,N,Pass
+470921,M,High School + Advanced Placement,N,Fail
+471654,M,High School,N,Pass
+472180,M,High School,N,Fail
+472584,M,High School,N,Pass
+472949,F,Some Higher Education,N,Fail
+473008,F,High School,N,Pass
+473965,M,High School + Advanced Placement,N,Pass
+474133,M,High School,Y,Fail
+474451,M,High School,Y,Fail
+474464,M,High School,N,Pass
+474633,F,High School,N,Pass
+474740,M,High School + Advanced Placement,N,Pass
+475883,M,Some Higher Education,N,Pass
+475897,M,High School + Advanced Placement,N,Pass
+476041,F,High School + Advanced Placement,N,Pass
+476637,M,Some Higher Education,N,Pass
+476910,M,High School + Advanced Placement,N,Pass
+476964,M,Some Higher Education,N,Pass
+477451,M,High School + Advanced Placement,Y,Pass
+477517,M,Some Graduate,N,Pass
+478213,M,Some Graduate,N,Pass
+478346,M,Some Higher Education,N,Pass
+480207,M,High School + Advanced Placement,Y,Pass
+480225,F,High School,N,Fail
+480929,M,Some Higher Education,N,Pass
+481350,F,High School + Advanced Placement,N,Pass
+481549,F,High School + Advanced Placement,N,Pass
+482117,M,High School,N,Fail
+482856,F,Some Higher Education,N,Pass
+483275,M,High School + Advanced Placement,N,Fail
+483470,M,Some Higher Education,N,Fail
+483818,F,High School + Advanced Placement,N,Pass
+483869,M,High School,Y,Fail
+484816,M,High School,N,Fail
+485464,M,High School + Advanced Placement,N,Pass
+485766,M,High School + Advanced Placement,N,Pass
+487711,F,Some Higher Education,N,Pass
+489291,F,High School,N,Fail
+491106,M,High School,N,Pass
+491108,F,High School + Advanced Placement,N,Pass
+491693,M,High School + Advanced Placement,N,Fail
+491914,M,High School + Advanced Placement,N,Pass
+492177,M,Some Higher Education,N,Fail
+492371,F,High School + Advanced Placement,Y,Pass
+492613,F,High School + Advanced Placement,N,Pass
+492993,M,High School + Advanced Placement,N,Fail
+494341,F,High School + Advanced Placement,N,Pass
+494637,M,High School + Advanced Placement,N,Pass
+494919,F,High School + Advanced Placement,Y,Pass
+495734,M,High School + Advanced Placement,N,Pass
+496217,M,High School + Advanced Placement,N,Fail
+496564,F,High School + Advanced Placement,N,Pass
+496601,F,Some Higher Education,N,Pass
+498320,F,High School + Advanced Placement,Y,Pass
+498527,M,Some Higher Education,N,Pass
+498835,F,High School + Advanced Placement,N,Pass
+499056,M,High School + Advanced Placement,N,Pass
+499246,F,High School + Advanced Placement,Y,Pass
+499557,M,High School + Advanced Placement,N,Pass
+500006,M,High School + Advanced Placement,Y,Pass
+500136,F,High School + Advanced Placement,N,Pass
+500459,F,High School,N,Pass
+500766,F,Some Higher Education,N,Pass
+501158,M,High School,N,Pass
+501960,F,High School + Advanced Placement,N,Pass
+502136,F,High School + Advanced Placement,N,Pass
+502554,M,Some Higher Education,N,Pass
+502697,M,High School + Advanced Placement,N,Fail
+502736,M,High School,N,Fail
+503086,F,High School,N,Pass
+503120,M,High School,N,Fail
+503170,M,High School + Advanced Placement,N,Fail
+503368,F,High School,N,Pass
+503497,M,High School,N,Pass
+503731,M,High School + Advanced Placement,N,Fail
+503926,F,High School + Advanced Placement,N,Pass
+504819,F,High School,N,Fail
+505311,M,High School,N,Pass
+505579,F,High School + Advanced Placement,N,Pass
+506056,M,High School,N,Fail
+506767,F,High School,N,Fail
+506785,M,High School + Advanced Placement,N,Pass
+507730,M,High School,N,Fail
+508934,F,High School,N,Pass
+509873,F,High School + Advanced Placement,N,Fail
+510195,M,High School + Advanced Placement,N,Pass
+511544,F,High School + Advanced Placement,N,Fail
+511576,M,High School + Advanced Placement,N,Fail
+511949,F,High School,N,Fail
+512080,F,High School + Advanced Placement,N,Pass
+512861,F,High School + Advanced Placement,N,Pass
+513396,F,Some Higher Education,N,Fail
+513773,F,Some Higher Education,N,Pass
+513854,M,High School,N,Pass
+514300,F,High School + Advanced Placement,N,Pass
+514633,M,High School,Y,Fail
+515046,M,High School,Y,Pass
+515170,F,High School + Advanced Placement,N,Fail
+515595,M,High School + Advanced Placement,N,Pass
+515903,F,High School + Advanced Placement,N,Pass
+515945,M,High School + Advanced Placement,N,Pass
+516010,F,No Formal Quals,N,Pass
+516281,M,High School + Advanced Placement,N,Fail
+516398,M,Some Higher Education,N,Pass
+516450,F,High School + Advanced Placement,N,Pass
+517646,F,Some Higher Education,N,Pass
+518097,M,High School + Advanced Placement,Y,Fail
+518349,M,High School,Y,Pass
+518436,M,High School,N,Pass
+519094,F,High School + Advanced Placement,N,Pass
+519102,M,High School,N,Fail
+520400,M,High School + Advanced Placement,N,Fail
+521160,F,High School + Advanced Placement,N,Pass
+521404,M,High School + Advanced Placement,N,Pass
+521709,M,High School + Advanced Placement,N,Pass
+521742,M,High School,N,Fail
+522572,M,High School + Advanced Placement,N,Pass
+522654,M,Some Higher Education,N,Pass
+523392,F,High School,N,Fail
+524160,M,Some Graduate,N,Pass
+524175,M,High School,N,Fail
+524369,F,High School,N,Pass
+524378,F,High School + Advanced Placement,N,Pass
+524396,F,High School + Advanced Placement,N,Pass
+524731,M,High School + Advanced Placement,N,Fail
+525066,F,High School,N,Fail
+525128,M,High School,N,Fail
+525749,F,Some Graduate,N,Pass
+525820,F,High School,N,Fail
+526068,M,High School,N,Pass
+526392,M,High School + Advanced Placement,N,Fail
+527306,F,High School,N,Fail
+527323,F,High School,N,Fail
+527917,M,High School,N,Pass
+528034,M,High School + Advanced Placement,N,Fail
+528184,F,High School + Advanced Placement,N,Pass
+528846,M,Some Higher Education,N,Fail
+528923,M,High School,N,Fail
+529025,M,High School + Advanced Placement,N,Pass
+529078,M,Some Higher Education,N,Pass
+529404,M,High School + Advanced Placement,N,Pass
+529760,M,High School,N,Fail
+529863,M,High School,N,Pass
+530234,F,High School + Advanced Placement,N,Pass
+531047,M,High School,N,Pass
+531075,M,High School,N,Fail
+531202,M,High School + Advanced Placement,N,Pass
+531377,F,High School,Y,Fail
+531787,M,High School + Advanced Placement,N,Fail
+531924,F,High School + Advanced Placement,N,Pass
+532491,M,High School + Advanced Placement,N,Pass
+532565,M,High School,N,Pass
+532695,F,High School + Advanced Placement,N,Fail
+532718,M,Some Higher Education,N,Pass
+532745,F,High School + Advanced Placement,N,Pass
+532855,M,High School + Advanced Placement,Y,Pass
+532988,M,High School + Advanced Placement,N,Fail
+533004,M,Some Higher Education,N,Fail
+533291,M,High School + Advanced Placement,N,Pass
+533522,F,High School + Advanced Placement,N,Fail
+533877,M,High School,N,Pass
+534203,M,High School,N,Pass
+534910,M,High School,N,Pass
+535215,M,High School,N,Pass
+535424,M,High School + Advanced Placement,N,Fail
+535620,M,High School,N,Fail
+535799,F,High School,N,Pass
+535831,F,High School + Advanced Placement,N,Pass
+535986,F,No Formal Quals,N,Pass
+536032,M,High School + Advanced Placement,N,Pass
+536170,M,Some Higher Education,N,Pass
+536261,M,High School + Advanced Placement,N,Pass
+536536,M,High School,N,Pass
+536696,F,High School + Advanced Placement,N,Fail
+536926,M,High School + Advanced Placement,N,Pass
+537138,M,High School + Advanced Placement,N,Pass
+537139,F,High School + Advanced Placement,N,Pass
+537452,M,High School + Advanced Placement,N,Fail
+537603,M,High School,N,Pass
+537622,F,High School + Advanced Placement,Y,Pass
+537658,F,High School,N,Pass
+537868,F,Some Higher Education,N,Fail
+537926,M,High School + Advanced Placement,N,Fail
+538251,F,No Formal Quals,N,Pass
+538611,F,High School,N,Fail
+538701,M,High School + Advanced Placement,N,Pass
+539043,M,High School + Advanced Placement,N,Fail
+539066,F,High School + Advanced Placement,N,Pass
+539142,M,High School + Advanced Placement,N,Fail
+539209,F,High School + Advanced Placement,N,Pass
+539328,M,High School + Advanced Placement,N,Pass
+539622,F,High School + Advanced Placement,N,Pass
+539643,F,High School,N,Pass
+540207,F,High School + Advanced Placement,N,Pass
+540298,M,High School + Advanced Placement,Y,Fail
+540310,M,High School + Advanced Placement,N,Pass
+540547,M,High School,N,Fail
+540592,F,High School + Advanced Placement,N,Fail
+540605,M,High School,N,Pass
+540686,M,High School,N,Pass
+540694,M,High School + Advanced Placement,N,Pass
+540758,F,High School,N,Fail
+540848,F,High School + Advanced Placement,N,Pass
+541228,M,High School + Advanced Placement,N,Fail
+541977,M,High School,N,Fail
+542036,M,High School + Advanced Placement,N,Pass
+542049,M,Some Higher Education,N,Pass
+542054,M,High School + Advanced Placement,N,Pass
+542205,F,High School,N,Pass
+542293,M,High School,N,Pass
+542372,M,High School,N,Fail
+543060,F,High School + Advanced Placement,N,Pass
+543202,F,Some Higher Education,N,Pass
+543340,M,High School + Advanced Placement,N,Pass
+543459,M,High School,N,Pass
+543510,F,High School + Advanced Placement,N,Pass
+543573,M,High School,N,Pass
+543749,M,High School,Y,Fail
+543756,M,High School + Advanced Placement,Y,Pass
+543860,M,High School,N,Pass
+543919,M,High School,N,Pass
+544053,M,High School + Advanced Placement,N,Pass
+544063,F,High School + Advanced Placement,N,Fail
+544091,M,Some Higher Education,N,Pass
+544226,M,High School + Advanced Placement,N,Fail
+544284,M,High School,N,Fail
+544307,M,High School + Advanced Placement,N,Pass
+544467,M,High School,N,Pass
+544603,M,High School + Advanced Placement,N,Pass
+544839,M,High School + Advanced Placement,N,Pass
+544907,M,High School,N,Fail
+544943,M,High School,N,Fail
+545083,F,High School,N,Pass
+545115,M,High School + Advanced Placement,Y,Fail
+545118,M,High School + Advanced Placement,N,Pass
+545245,M,High School,Y,Fail
+545387,M,High School + Advanced Placement,N,Fail
+545704,M,High School,Y,Pass
+545993,M,High School,N,Fail
+546000,M,Some Higher Education,N,Fail
+546054,M,High School + Advanced Placement,N,Pass
+546074,F,High School + Advanced Placement,N,Pass
+546089,M,Some Higher Education,N,Fail
+546191,M,High School + Advanced Placement,N,Pass
+546221,F,High School,N,Pass
+546675,F,High School + Advanced Placement,N,Pass
+546804,M,High School + Advanced Placement,N,Fail
+546826,F,High School,N,Pass
+546830,F,High School + Advanced Placement,N,Fail
+546862,F,High School + Advanced Placement,Y,Pass
+546953,M,High School + Advanced Placement,N,Pass
+547349,M,High School,N,Pass
+547445,F,High School,N,Pass
+547486,M,High School,N,Fail
+547679,F,High School,N,Fail
+547986,F,High School + Advanced Placement,N,Fail
+548069,M,High School + Advanced Placement,N,Pass
+548267,F,High School + Advanced Placement,N,Pass
+548271,F,High School + Advanced Placement,N,Fail
+548473,M,High School,N,Fail
+548535,F,High School + Advanced Placement,Y,Pass
+548602,M,High School + Advanced Placement,N,Pass
+548677,M,High School + Advanced Placement,N,Pass
+548869,F,Some Higher Education,N,Fail
+548959,F,High School + Advanced Placement,N,Fail
+548996,M,Some Higher Education,N,Pass
+549038,M,High School,N,Pass
+549095,M,Some Higher Education,N,Pass
+549125,M,High School + Advanced Placement,N,Pass
+549135,F,High School + Advanced Placement,Y,Pass
+549283,M,Some Higher Education,N,Fail
+549354,M,High School,N,Fail
+549545,M,High School,N,Pass
+549684,M,Some Graduate,N,Pass
+549690,F,High School + Advanced Placement,N,Pass
+549698,F,High School + Advanced Placement,N,Pass
+549710,M,High School,N,Pass
+549731,M,High School,N,Pass
+549783,M,High School,N,Pass
+549795,F,High School + Advanced Placement,N,Pass
+549872,M,High School,N,Pass
+549897,F,High School,N,Fail
+550064,M,High School + Advanced Placement,N,Pass
+550092,M,High School + Advanced Placement,N,Pass
+550348,F,Some Higher Education,N,Fail
+550371,M,High School,Y,Fail
+550545,F,High School + Advanced Placement,N,Pass
+550604,F,Some Higher Education,N,Pass
+550711,M,High School + Advanced Placement,N,Fail
+550725,M,High School + Advanced Placement,N,Pass
+550762,M,High School,N,Pass
+550865,M,Some Higher Education,N,Pass
+550893,M,High School + Advanced Placement,N,Fail
+550974,M,High School,Y,Fail
+551169,M,Some Higher Education,N,Fail
+551183,M,High School + Advanced Placement,N,Pass
+551334,F,High School + Advanced Placement,N,Pass
+551375,F,High School,N,Pass
+551478,M,High School + Advanced Placement,N,Pass
+551550,M,High School + Advanced Placement,N,Pass
+551573,M,High School + Advanced Placement,N,Pass
+552114,F,High School,N,Fail
+552166,M,High School,N,Pass
+552635,F,High School,N,Pass
+552661,M,High School,N,Pass
+552789,F,High School + Advanced Placement,N,Pass
+552921,F,High School + Advanced Placement,N,Pass
+552955,M,High School + Advanced Placement,N,Fail
+553275,F,High School,N,Pass
+553382,F,High School,N,Pass
+553575,F,Some Higher Education,N,Pass
+553964,M,High School,N,Pass
+554161,M,High School + Advanced Placement,N,Pass
+554174,M,Some Higher Education,N,Pass
+554193,F,Some Higher Education,N,Fail
+554205,M,High School,N,Pass
+554245,M,High School,N,Pass
+554295,M,High School + Advanced Placement,Y,Pass
+554300,M,High School + Advanced Placement,N,Pass
+554446,F,High School,N,Pass
+554484,M,Some Higher Education,Y,Pass
+554574,F,High School + Advanced Placement,N,Pass
+554773,M,High School,N,Fail
+554881,M,High School,N,Fail
+554885,M,High School + Advanced Placement,N,Fail
+554995,M,High School + Advanced Placement,N,Pass
+555360,M,High School,N,Fail
+555408,M,High School + Advanced Placement,N,Fail
+555497,M,High School + Advanced Placement,N,Fail
+555740,M,High School + Advanced Placement,Y,Pass
+555765,M,High School + Advanced Placement,N,Fail
+555772,M,High School + Advanced Placement,N,Fail
+556030,M,Some Higher Education,N,Fail
+556082,M,High School + Advanced Placement,N,Pass
+556165,M,High School,N,Fail
+556185,M,High School + Advanced Placement,N,Pass
+556295,M,High School,N,Fail
+556337,F,High School,Y,Pass
+556362,M,High School,Y,Pass
+556370,M,Some Higher Education,N,Fail
+556373,M,Some Higher Education,N,Pass
+556389,M,Some Higher Education,N,Pass
+556575,M,Some Higher Education,N,Pass
+556584,M,Some Higher Education,N,Pass
+556660,F,High School,N,Fail
+556721,M,High School + Advanced Placement,N,Pass
+556756,M,High School,N,Fail
+556774,M,High School + Advanced Placement,N,Pass
+556780,M,Some Graduate,N,Pass
+556785,F,High School,N,Pass
+556835,M,High School + Advanced Placement,N,Pass
+556918,M,High School + Advanced Placement,N,Pass
+556934,F,High School + Advanced Placement,N,Pass
+557005,M,High School,N,Fail
+557045,M,High School + Advanced Placement,N,Pass
+557237,M,High School + Advanced Placement,Y,Fail
+557358,M,High School,N,Fail
+557432,M,High School,N,Fail
+557477,M,High School + Advanced Placement,N,Fail
+557694,M,Some Higher Education,N,Pass
+557742,F,High School + Advanced Placement,N,Pass
+557764,F,High School + Advanced Placement,N,Fail
+557846,M,Some Higher Education,N,Pass
+557850,M,Some Higher Education,N,Fail
+557911,M,High School + Advanced Placement,N,Pass
+557924,M,High School + Advanced Placement,N,Pass
+558153,M,High School + Advanced Placement,N,Fail
+558200,F,High School + Advanced Placement,N,Pass
+558224,F,High School + Advanced Placement,N,Fail
+558290,M,High School + Advanced Placement,N,Pass
+558415,F,High School + Advanced Placement,Y,Pass
+558440,F,High School,Y,Pass
+558488,M,High School + Advanced Placement,N,Fail
+558645,F,High School + Advanced Placement,N,Fail
+558678,F,Some Higher Education,N,Pass
+558779,M,Some Higher Education,N,Fail
+558787,M,Some Higher Education,N,Pass
+558806,M,High School + Advanced Placement,N,Pass
+558837,F,Some Higher Education,N,Pass
+558914,F,High School + Advanced Placement,N,Fail
+558948,M,High School + Advanced Placement,N,Pass
+559081,M,Some Higher Education,N,Pass
+559282,M,High School + Advanced Placement,N,Pass
+559293,F,High School,N,Fail
+559410,M,Some Higher Education,N,Fail
+559420,M,High School + Advanced Placement,N,Pass
+559459,F,Some Higher Education,N,Fail
+559469,F,High School,N,Pass
+559474,F,High School + Advanced Placement,N,Pass
+559612,M,Some Higher Education,N,Fail
+559672,M,High School + Advanced Placement,N,Pass
+559706,M,High School,N,Pass
+559823,M,High School,N,Fail
+559903,M,High School,N,Pass
+559930,M,High School + Advanced Placement,N,Fail
+559950,M,High School + Advanced Placement,N,Fail
+560024,M,High School + Advanced Placement,N,Pass
+560114,M,High School + Advanced Placement,Y,Pass
+560179,M,High School,N,Pass
+560240,M,Some Higher Education,N,Pass
+560260,F,Some Higher Education,N,Pass
+560311,M,High School,N,Pass
+560347,M,High School + Advanced Placement,N,Pass
+560381,M,High School + Advanced Placement,N,Pass
+560391,M,Some Higher Education,N,Pass
+560444,M,Some Higher Education,N,Pass
+564465,M,High School + Advanced Placement,N,Fail
+907261,F,Some Higher Education,N,Pass
+957467,M,Some Higher Education,N,Pass
+1018685,M,High School,N,Fail
+1044992,M,Some Higher Education,N,Pass
+1068316,M,High School + Advanced Placement,N,Pass
+1095916,M,High School + Advanced Placement,N,Pass
+1105628,F,High School,N,Fail
+1311171,M,High School + Advanced Placement,N,Pass
+1347447,M,High School + Advanced Placement,N,Pass
+1351739,M,High School + Advanced Placement,N,Pass
+1384882,M,Some Higher Education,N,Fail
+1392016,M,High School,N,Fail
+1444134,F,Some Higher Education,N,Pass
+1446954,F,High School + Advanced Placement,N,Fail
+1470291,F,Some Higher Education,N,Pass
+1510198,F,High School + Advanced Placement,Y,Pass
+1534854,M,High School,N,Fail
+1577134,F,High School + Advanced Placement,N,Fail
+1584449,M,High School,Y,Fail
+1611842,F,High School + Advanced Placement,N,Pass
+1620593,M,High School,N,Fail
+1626418,M,High School,N,Pass
+1638119,M,High School + Advanced Placement,N,Fail
+1638425,F,Some Higher Education,N,Fail
+1640773,M,High School + Advanced Placement,N,Pass
+1651198,F,Some Higher Education,N,Pass
+1664920,M,Some Higher Education,N,Pass
+1690836,M,High School + Advanced Placement,N,Pass
+1696174,M,High School,N,Pass
+1719566,M,High School + Advanced Placement,N,Pass
+1843026,F,High School + Advanced Placement,N,Fail
+1906919,M,High School,N,Fail
+1944130,M,High School + Advanced Placement,N,Pass
+1945240,M,High School,N,Pass
+1968757,M,Some Higher Education,N,Pass
+1976350,M,High School + Advanced Placement,N,Pass
+1982845,F,Some Higher Education,N,Pass
+2006894,M,Some Graduate,N,Pass
+2020916,M,High School,N,Pass
+2028388,M,High School,N,Pass
+2036685,M,Some Higher Education,N,Fail
+2063578,M,High School + Advanced Placement,N,Pass
+2080539,M,High School,N,Pass
+2088765,F,Some Higher Education,Y,Pass
+2140311,M,Some Higher Education,N,Pass
+2142579,M,High School,N,Fail
+2146936,F,High School + Advanced Placement,N,Fail
+2154361,M,High School,N,Fail
+2156514,M,High School + Advanced Placement,N,Pass
+2177871,M,Some Higher Education,N,Pass
+2193231,M,High School,N,Fail
+2195445,F,Some Higher Education,Y,Pass
+2209728,F,High School + Advanced Placement,N,Pass
+2227786,M,Some Higher Education,N,Fail
+2231961,M,Some Higher Education,N,Pass
+2238679,M,Some Higher Education,N,Fail
+2248715,M,Some Higher Education,N,Pass
+2279449,M,High School + Advanced Placement,N,Pass
+2281292,M,High School + Advanced Placement,N,Pass
+2330534,F,High School,N,Fail
+2332060,M,High School,Y,Pass
+2348111,F,High School + Advanced Placement,N,Pass
+2350300,F,High School + Advanced Placement,Y,Fail
+2358423,F,High School + Advanced Placement,Y,Pass
+2374051,F,High School + Advanced Placement,N,Fail
+2374404,M,Some Graduate,N,Pass
+2377623,F,Some Higher Education,N,Pass
+2381845,F,High School,N,Fail
+2388623,F,High School + Advanced Placement,Y,Pass
+2400764,F,Some Higher Education,N,Fail
+2406709,M,Some Higher Education,N,Pass
+2418045,M,High School + Advanced Placement,N,Pass
+2418580,M,High School,N,Pass
+2421609,M,High School,N,Fail
+2444632,M,Some Higher Education,N,Pass
+2451672,M,Some Higher Education,N,Fail
+2454933,F,Some Higher Education,N,Fail
+2456612,M,Some Higher Education,N,Pass
+2459878,M,High School + Advanced Placement,N,Pass
+2460752,F,High School + Advanced Placement,N,Pass
+2465876,F,High School + Advanced Placement,N,Pass
+2476998,F,High School,N,Pass
+2498388,F,High School,Y,Pass
+2499307,M,High School + Advanced Placement,N,Fail
+2501479,M,Some Higher Education,N,Fail
+2501768,F,High School,N,Pass
+2502504,F,High School + Advanced Placement,N,Pass
+2505501,M,Some Higher Education,N,Pass
+2508785,F,High School,N,Fail
+2513245,M,High School,N,Pass
+2518617,M,High School,N,Fail
+2531298,F,High School + Advanced Placement,N,Fail
+2532322,M,High School + Advanced Placement,Y,Pass
+2536214,F,High School,Y,Fail
+2537695,M,Some Higher Education,N,Pass
+2540922,M,High School + Advanced Placement,N,Pass
+2543267,M,High School,N,Fail
+2543600,M,High School,Y,Pass
+2547321,F,High School,N,Pass
+2547402,M,High School,Y,Pass
+2549875,M,Some Graduate,N,Pass
+2549939,F,Some Higher Education,N,Pass
+2571497,F,High School,N,Pass
+2585285,F,High School + Advanced Placement,N,Pass
+2586026,M,High School,N,Fail
+2594888,F,High School + Advanced Placement,Y,Pass
+2602486,F,High School + Advanced Placement,N,Pass
+2611779,M,High School + Advanced Placement,N,Fail
+2615892,M,High School + Advanced Placement,N,Pass
+2621590,M,High School + Advanced Placement,N,Fail
+2624720,F,High School,Y,Fail
+2626179,M,High School,N,Pass
+2628025,M,High School,N,Fail
+2632491,M,High School + Advanced Placement,N,Fail
+2633235,F,High School + Advanced Placement,N,Pass
+2636225,M,High School + Advanced Placement,N,Pass
+2639451,F,High School + Advanced Placement,Y,Pass
+2640063,M,High School,N,Fail
+2640992,M,High School + Advanced Placement,N,Fail
+2642830,F,High School + Advanced Placement,N,Pass
+2643777,M,High School,N,Fail
+2647226,F,Some Higher Education,N,Pass
+2655683,M,No Formal Quals,N,Fail
+2659756,M,High School + Advanced Placement,N,Fail
+2661870,M,High School + Advanced Placement,N,Pass
+2666577,F,High School,Y,Pass
+2669206,M,High School + Advanced Placement,N,Pass
+2672686,M,Some Higher Education,N,Pass
+2677955,F,High School + Advanced Placement,N,Pass
+2678338,F,No Formal Quals,N,Fail
+2683836,M,High School,N,Pass
+2689536,M,Some Higher Education,Y,Pass
+2693243,F,High School,N,Pass
+2694933,F,High School + Advanced Placement,Y,Pass
